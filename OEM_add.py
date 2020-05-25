@@ -111,6 +111,4 @@ if __name__ == '__main__':
         'VW',
         'Volvo'
     ]
-    print('------ Start ------')
     main()
-    print('----- The End -----')
